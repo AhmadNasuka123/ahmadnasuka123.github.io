@@ -6,8 +6,8 @@ title: software enginering student
 name_pronunciation: Ahmad Nasuka
 
 # Full name (for SEO)
-first_name: Ahmad 
-last_name: Nasuka
+first_name: -- --
+last_name: -- --
 
 # Status emoji
 status:
