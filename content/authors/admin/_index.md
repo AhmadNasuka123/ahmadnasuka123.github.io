@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Poetry Writer & Local Organization Chief
+role: Poetry Writer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
