@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PELAJAR
+title: software enginering student
 
 # Name pronunciation (optional)
 name_pronunciation: Ahmad Nasuka
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Poetry Writer
+role: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: HMI
+  - name:
     url: https://www.hmiwalisongo.or.id/
 
 # Social network links
