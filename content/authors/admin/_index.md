@@ -139,11 +139,11 @@ skills:
 
 languages:
   - name: English
-    percent: 22.40
+    percent: 40.22
   - name: Javanese
-    percent: 0.80
+    percent: 90.00
   - name: Arabian
-    percent: 69.69
+    percent: 70.69
 
 # Awards.
 #   Add/remove as many awards below as you like.
