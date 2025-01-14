@@ -6,8 +6,8 @@ title: software enginering student
 name_pronunciation: Ahmad Nasuka
 
 # Full name (for SEO)
-first_name: Ahmad Nasuka
-last_name: 
+first_name: Ahmad 
+last_name: Nasuka
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:
+  - name: 
     url: https://www.hmiwalisongo.or.id/
 
 # Social network links
