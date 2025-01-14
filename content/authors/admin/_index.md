@@ -106,17 +106,17 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming
+  - name: Membaca
     items:
-      - name: Python
+      - name: Novel
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Artikel
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Puisi
         description: ''
         percent: 40
         icon: circle-stack
@@ -124,15 +124,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Exercise
+      - name: Fotball
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Likes to have pets
+      - name: Membaca
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Writing
         description: ''
         percent: 80
         icon: camera
