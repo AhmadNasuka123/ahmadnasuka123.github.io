@@ -128,7 +128,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Membaca
+      - name: Reade
         description: ''
         percent: 100
         icon: cat
