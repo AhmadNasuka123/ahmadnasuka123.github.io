@@ -24,7 +24,7 @@ role: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: HMI
     url: https://www.hmiwalisongo.or.id/
 
 # Social network links
