@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Power Ranger
+title: PELAJAR
 
 # Name pronunciation (optional)
 name_pronunciation: Ahmad Nasuka
