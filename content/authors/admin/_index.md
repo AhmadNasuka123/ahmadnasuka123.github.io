@@ -143,7 +143,7 @@ languages:
   - name: Javanese
     percent: 90.00
   - name: Arabian
-    percent: 70.00
+    percent: 70.02
 
 # Awards.
 #   Add/remove as many awards below as you like.
