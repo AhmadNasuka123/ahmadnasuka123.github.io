@@ -64,7 +64,7 @@ jobs:
     permissions:
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment originates from an appropriate source
-      
+
     steps:
     - name: Download build artifact
       uses: actions/download-artifact@v4
@@ -75,3 +75,5 @@ jobs:
       uses: actions/deploy-pages@v2
       with:
         artifact_name: build-artifact
+      env:
+        ARTIFACT_URL: ${{ steps.get-artifact-url.outputs.artifact_url }}
